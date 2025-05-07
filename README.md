@@ -16,7 +16,7 @@ This repository contains a C++ application that demonstrates how **CVE-2021-3195
 2. **Run the Exploit**: Execute the following command to launch a program (e.g., `calc.exe`) with SYSTEM privileges:
 
    ```bash
-   FodHelper.exe 1 calc.exe
+   Exploit.exe 1 calc.exe
 
 ### Simple Explanation of How the CVE Works:
 1. **Registry Modification: The attacker modifies specific registry keys responsible for UAC elevation.**
