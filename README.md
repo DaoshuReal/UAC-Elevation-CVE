@@ -12,7 +12,7 @@ This repository contains a C++ application that demonstrates how **CVE-2021-3195
 
 ### Usage
 
-1. **Compile the C++ Source Code**: Compile the provided C++ source code into an executable (`FodHelper.exe`).
+1. **Compile the C++ Source Code**: Compile the provided C++ source code into an executable (`Exploit.exe`).
 2. **Run the Exploit**: Execute the following command to launch a program (e.g., `calc.exe`) with SYSTEM privileges:
 
    ```bash
